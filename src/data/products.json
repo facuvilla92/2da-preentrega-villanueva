@@ -1,0 +1,66 @@
+[
+    {
+    "id": 1,
+    "pictureUrl": "https://www.proveeduriapiaf.com.ar/wp-content/uploads/5K4A8902.jpg",
+    "title": "Vacio",
+    "price": 7000,
+    "description": "vacio de ternera",
+    "category": "vacuna"
+  },
+  {
+    "id": 2,
+    "pictureUrl": "https://www.proveeduriapiaf.com.ar/wp-content/uploads/5K4A8829.jpg",
+    "title": "Asado",
+    "price": 6100,
+    "description": "asado de novillo",
+    "category": "vacuna"
+  },
+  {
+    "id": 3,
+    "pictureUrl": "https://www.proveeduriapiaf.com.ar/wp-content/uploads/5K4A8865.jpg",
+    "title": "entraña",
+    "price": 7500,
+    "description": "entraña de novillo",
+    "category": "vacuna"
+  },
+  {
+    "id": 4,
+    "pictureUrl": "https://www.proveeduriapiaf.com.ar/wp-content/uploads/5K4A8874.jpg",
+    "title": "matambre",
+    "price": 6500,
+    "description": "matambre de ternera",
+    "category": "vacuna"
+  },
+  {
+    "id": 5,
+    "pictureUrl": "https://www.proveeduriapiaf.com.ar/wp-content/uploads/5K4A8947.jpg",
+    "title": "pollo entero",
+    "price": 3100,
+    "description": "pollo sapucai",
+    "category": "pollo"
+  },
+  {
+    "id": 6,
+    "pictureUrl": "https://www.proveeduriapiaf.com.ar/wp-content/uploads/5K4A8942.jpg",
+    "title": "supremas",
+    "price": 6500,
+    "description": "supremas sapucai",
+    "category": "pollo"
+  },
+  {
+    "id": 7,
+    "pictureUrl": "https://www.proveeduriapiaf.com.ar/wp-content/uploads/5K4A8945.jpg",
+    "title": "pata y muslo",
+    "price": 2500,
+    "description": "pata y muslo sapucai",
+    "category": "pollo"
+  },
+  {
+    "id": 8,
+    "pictureUrl": "https://www.proveeduriapiaf.com.ar/wp-content/uploads/5K4A8950.jpg",
+    "title": "alitas de pollo",
+    "price": 4000,
+    "description": "alitas de pollo sapucai",
+    "category": "pollo"
+  }
+]
